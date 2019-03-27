@@ -1,0 +1,5 @@
+@-moz-document domain("github.com") {
+.repository-lang-stats-graph .language-color:not(:first-child) {
+    border-left: 0px solid #fff
+}
+}
