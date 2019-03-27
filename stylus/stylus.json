@@ -1,0 +1,21 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1553662047760,
+		"name": "Remove GitHub Language Graph Border",
+		"sections": [
+			{
+				"code": ".repository-lang-stats-graph .language-color:not(:first-child) {\n    border-left: 0px solid #fff\n}",
+				"domains": [
+					"github.com"
+				]
+			}
+		],
+		"updateDate": 1553662047760,
+		"id": 3
+	}
+]
